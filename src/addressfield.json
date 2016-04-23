@@ -3888,7 +3888,7 @@
           "locality": [
             {
               "localityname": {
-                "label": "Town/city"
+                "label": "Town / City"
               }
             },
             {
@@ -6347,7 +6347,7 @@
           "locality": [
             {
               "localityname": {
-                "label": "Town/city"
+                "label": "Town / City"
               }
             },
             {
@@ -9734,7 +9734,7 @@
           "locality": [
             {
               "localityname": {
-                "label": "Town/city"
+                "label": "Town / City"
               }
             },
             {
